@@ -69,4 +69,4 @@
 
 ### 이미지
 
-![이미지 연습](images/image-mine.jpg)
+![이미지 연습](./images/image-mine.jpg)
